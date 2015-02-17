@@ -1,0 +1,9 @@
+D:\Universidad\9no\Comu II\Bits\Bits\bin\Debug\Bits.exe.config
+D:\Universidad\9no\Comu II\Bits\Bits\bin\Debug\Bits.exe
+D:\Universidad\9no\Comu II\Bits\Bits\bin\Debug\Bits.pdb
+D:\Universidad\9no\Comu II\Bits\Bits\obj\Debug\Bits.csprojResolveAssemblyReference.cache
+D:\Universidad\9no\Comu II\Bits\Bits\obj\Debug\Bits.Properties.Resources.resources
+D:\Universidad\9no\Comu II\Bits\Bits\obj\Debug\Bits.csproj.GenerateResource.Cache
+D:\Universidad\9no\Comu II\Bits\Bits\obj\Debug\Bits.exe
+D:\Universidad\9no\Comu II\Bits\Bits\obj\Debug\Bits.pdb
+D:\Universidad\9no\Comu II\Bits\Bits\obj\Debug\Bits.Main.resources
